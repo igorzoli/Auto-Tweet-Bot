@@ -1,0 +1,25 @@
+toTweet = [
+    'Bo padoca agora!',
+    'Eu perdôo sua dívida de pagar uma cachaça',
+    'Japa tá me devendo até hoje',
+    'My name is Pedro Benicio al sing',
+    'Pra resolver suave, muito confuso',
+    'Deus me fez feio burro e piroquinha',
+    'Nem a chuva para os noia',
+    'Só queria andar de skate e ter uma namoradinha',
+    'Paga a caneca',
+    'Info é tudo cabaço',
+    'Calouro não pode pegar elevador!',
+    'Coladão na aula de química tá rolando',
+    'Gente, isso ai é recesso do corona virus. O Evandro deve estar em divinopolis comendo puta e travesti',
+    'Povo de correr no mato, eles conseguem bolsa, tão cansado de ganhar dinheiro publico. Que fanfic é essa??',
+    'Ficar no cangote da turrepa',
+    'Se for pra ter aula online eu só quero ter aula da Margareth (talvez o Nelson)',
+    'UAAAAAAAAAAAAAAAAAAAAAAAAAAAA',
+    'No fundo livro dele tá escrito: lula livre e I love pt',
+    'Churrascão pocando né não cabeçss',
+    'Boom, devolve a caneca do Japa!',
+    'Passa desodorante Gustavo!',
+]
+
+print(len(toTweet))
