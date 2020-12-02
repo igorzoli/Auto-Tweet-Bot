@@ -2,13 +2,13 @@ import tweepy
 from time import sleep
 from toTweet import toTweet
 from random import randint
-from config import key, secretKey, token, secretToken
+from config import key, secretKey, token, secretToken #Config file with the API keys/tokens that you get in twitter develop
 
 #Function to conect to API
 def oAuth():
     try:
-        auth = tweepy.OAuthHandler(key,secretKey)
-        auth.set_access_token(token, secretToken)
+        auth = tweepy.OAuthHandler(key,secretKey) #Keys that you get by twitter develop menu
+        auth.set_access_token(token, secretToken) #Tokens that you get by twitter develop menu
         return auth
     except:
         print('Erro ao estabelecer comunicação com a API')
